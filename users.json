@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/d702b8dc57e56a42118b3c29bf5e48f5-full.png",
+      "name": "Salvador Stewart Flynn Thomas Salva Salve...",
+      "position": "Leading specialist of the department of cent... ",
+      "email": "frontend_develop@gmail.com",
+      "phone": "+38 (098) 278 44 24"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/5d588eb9015c0337fa227b0e180e952d-full.png",
+      "name": "Takamaru Ayako Jurrien",
+      "position": "Lead Independent Director",
+      "email": "Takamuru@gmail.com",
+      "phone": "+38 (098) 278 90 24"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/42924e9503bd9dde694d1e8a4be2c9b6-full.png",
+      "name": "Ilya",
+      "position": "Co-Founder and CEO",
+      "email": "Ilya_founder@gmail.com",
+      "phone": "+38 (098) 235 44 24"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/e1e0d1e76888fb52acf9d4538cb50e7d-full.png",
+      "name": "Alexandre",
+      "position": "Lead Independent Director",
+      "email": "Alexandr_develop@gmail.com",
+      "phone": "+38 (098) 235 44 24"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/dc9d03c5f65a13bc4e28ef73bfbd153f-full.png",
+      "name": "Winny",
+      "position": "Former Senior Director",
+      "email": "Winny_develop@gmail.com",
+      "phone": "+38 (098) 278 22 88"
+    },
+    {
+      "id": 6,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/581cff41b4c8b046d60736a7cf2ee2e4-full.png",
+      "name": "Simon",
+      "position": "President of Commerce",
+      "email": "Winny_develop@gmail.com",
+      "phone": "+38 (098) 278 44 00"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/d702b8dc57e56a42118b3c29bf5e48f5-full.png",
+      "name": "Salvador Stewart Flynn Thomas Salva Salve...",
+      "position": "Leading specialist of the department of cent... ",
+      "email": "frontend_develop@gmail.com",
+      "phone": "+38 (098) 278 44 24"
+    },
+    {
+      "id": 8,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/5d588eb9015c0337fa227b0e180e952d-full.png",
+      "name": "Takamaru Ayako Jurrien",
+      "position": "Lead Independent Director",
+      "email": "Takamuru@gmail.com",
+      "phone": "+38 (098) 278 90 24"
+    },
+    {
+      "id": 9,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/42924e9503bd9dde694d1e8a4be2c9b6-full.png",
+      "name": "Ilya",
+      "position": "Co-Founder and CEO",
+      "email": "Ilya_founder@gmail.com",
+      "phone": "+38 (098) 235 44 24"
+    },
+    {
+      "id": 10,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/e1e0d1e76888fb52acf9d4538cb50e7d-full.png",
+      "name": "Alexandre",
+      "position": "Lead Independent Director",
+      "email": "Alexandr_develop@gmail.com",
+      "phone": "+38 (098) 235 44 24"
+    },
+    {
+      "id": 11,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/dc9d03c5f65a13bc4e28ef73bfbd153f-full.png",
+      "name": "Winny",
+      "position": "Former Senior Director",
+      "email": "Winny_develop@gmail.com",
+      "phone": "+38 (098) 278 22 88"
+    },
+    {
+      "id": 12,
+      "img": "https://cdn1.savepice.ru/uploads/2022/4/7/581cff41b4c8b046d60736a7cf2ee2e4-full.png",
+      "name": "Simon",
+      "position": "President of Commerce",
+      "email": "Winny_develop@gmail.com",
+      "phone": "+38 (098) 278 44 00"
+    }
+  ]
+}
